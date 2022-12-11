@@ -1,0 +1,25 @@
+
+.title{
+    color: rgb(255, 255, 255);
+    font-family: "philosopher";
+    text-align: center;
+    margin:20px;
+}
+body{
+    background-color: black;
+}
+.btn{
+    margin:10px;
+    margin-left: 200px;
+    font-family: "philosopher";
+    font-size: large;
+}
+li{
+    color:aliceblue;
+    line-height: 3rem;
+    font-family: "cardo";
+    font-size: large;
+}
+img{
+    float:right;
+}
